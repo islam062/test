@@ -12,3 +12,5 @@ Testing the EDITOR variable. Can we make it invoke notepad++?
 Test the author information update.
 
 Some more work on master.
+
+Add another line.
